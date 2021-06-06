@@ -1,15 +1,15 @@
 {
   "name": "oaie-sketch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple openapi schema builder",
   "private": false,
-  "main": "dist/index.html",
+  "main": "src/oaie-sketch.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
- "bugs": {
+  "bugs": {
     "url": "https://github.com/OAIE/oaie-sketch/issues"
   },
   "license": "MIT",
@@ -27,6 +27,7 @@
     "core-js": "^3.6.5",
     "jquery": "^3.6.0",
     "js-yaml": "^3.14.1",
+    "oaie-sketch": "1.0.2",
     "vue": "^2.6.11",
     "webpack-jquery-ui": "^2.0.1"
   },
