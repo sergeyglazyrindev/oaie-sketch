@@ -1,6 +1,6 @@
 {
   "name": "oaie-sketch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a simple openapi schema builder",
   "private": false,
   "main": "src/oaie-sketch.js",
@@ -27,7 +27,7 @@
     "core-js": "^3.6.5",
     "jquery": "^3.6.0",
     "js-yaml": "^3.14.1",
-    "oaie-sketch": "1.0.2",
+    "oaie-sketch": "1.0.3",
     "vue": "^2.6.11",
     "webpack-jquery-ui": "^2.0.1"
   },
